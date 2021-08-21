@@ -1,0 +1,62 @@
+body {
+  background-color: #EBEDED;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  /* text-align: center; */
+  font-size:40px;
+  font-weight: 600;
+  color: #2F394D;
+  line-height: 0px;
+  padding-bottom: 12px;
+}
+
+h2, h3 {
+  font-weight: 600;
+  color: #2F394D;
+}
+
+p {
+  line-height: 8px;
+  font-size: 16px;
+}
+
+#personal-address {
+  font-size: 14px;
+  line-height: 1px;
+  padding-bottom: 12px;
+}
+
+.no-underlined-links {
+  text-decoration: none;
+}
+
+#perfil-photo-edge {
+  border-radius: 40%;
+  /* border: 3px solid #2f394d; */
+  /* padding: 5px;
+  background-color: #2f394d; */
+}
+
+#link-buttons {
+  font-size: 13px;
+  background-color: #2F394D;
+  color: #EBEDED;
+  padding: 8px;
+  border-radius: 8px;
+}
+
+/* #perfil-photo {
+  float:left;
+  width: 230px;
+  margin-bottom: 15px;
+}
+
+#internal-links {
+  clear: both;
+}
+
+#internal-links ul li {
+  margin-top: 5px;
+} */
