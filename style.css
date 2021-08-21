@@ -47,7 +47,7 @@ p {
   border-radius: 8px;
 }
 
-/* #perfil-photo {
+#perfil-photo {
   float:left;
   width: 230px;
   margin-bottom: 15px;
@@ -59,4 +59,4 @@ p {
 
 #internal-links ul li {
   margin-top: 5px;
-} */
+}
