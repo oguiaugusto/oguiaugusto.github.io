@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-  /* text-align: center; */
+  text-align: center;
   font-size:40px;
   font-weight: 600;
   color: #2F394D;
