@@ -35,8 +35,8 @@ p {
 #perfil-photo-edge {
   border-radius: 40%;
   /* border: 3px solid #2f394d; */
-  /* padding: 5px;
-  background-color: #2f394d; */
+  padding: 5px;
+  background-color: #2f394d;
 }
 
 #link-buttons {
